@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.2939668f.css",
+    "main.js": "/Portfolio/static/js/main.03e72028.js",
+    "static/media/image3.png": "/Portfolio/static/media/image3.98209d650a926f6a81b7.png",
+    "static/media/image2.png": "/Portfolio/static/media/image2.28a52a0078f4f9fb6e40.png",
+    "static/media/profile4.png": "/Portfolio/static/media/profile4.70eb81303c8cfcb0e51c.png",
+    "static/media/Rukhsar_Resume_Portfolio.pdf": "/Portfolio/static/media/Rukhsar_Resume_Portfolio.19aaa4c40c510c6e62d5.pdf",
+    "static/media/image1.png": "/Portfolio/static/media/image1.17f3ed6d58293921921b.png",
+    "static/media/fa-solid-900.woff2": "/Portfolio/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/Portfolio/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/fa-regular-400.woff2": "/Portfolio/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/fa-v4compatibility.woff2": "/Portfolio/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "static/media/slick.svg": "/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.2939668f.css.map": "/Portfolio/static/css/main.2939668f.css.map",
+    "main.03e72028.js.map": "/Portfolio/static/js/main.03e72028.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2939668f.css",
+    "static/js/main.03e72028.js"
+  ]
+}
